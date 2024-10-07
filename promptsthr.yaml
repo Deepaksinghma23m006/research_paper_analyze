@@ -1,0 +1,15 @@
+####
+summarize_paper: "Please summarize the following research paper:\n\n{paper_text}\n\nAdditionally, for any extracted images or graphs, 
+provide an interactive explanation, 
+discussing the significance, what they represent, and how they relate to the overall content of the paper."
+
+#22222
+summarize_paper: |
+  Please summarize the following research paper and explain any images or graphs that may appear in the text:
+  
+  {paper_text}
+
+image_explanation: |
+  Based on the extracted text and the image provided, please explain what the image represents:
+  
+  Image: {image_caption}

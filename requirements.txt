@@ -1,0 +1,11 @@
+requests
+PyMuPDF
+streamlit
+pyyaml
+requests
+flask
+matplotlib
+openai
+google_generativeai
+ngrok
+
